@@ -1,5 +1,5 @@
 # HASIL
-![IMG_20220710_035743](https://user-images.githubusercontent.com/88397313/178122461-828261c8-4c18-46de-8cbe-629458cff3ec.jpg)
+![Screenshot_2023-04-26-22-24-57-04_c759c44d10a956b96f85cc66750ff86e](https://user-images.githubusercontent.com/88397313/234645682-c4d31472-9f56-4dca-82ec-1f015bf1e28b.png)
 
 ```
 $ pkg install python git -y
