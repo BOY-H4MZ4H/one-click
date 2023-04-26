@@ -2,6 +2,6 @@ import os
 if __name__ == "__main__":
    try:
        os.system("git pull")
-       __import__("ikeh").info1()
+       __import__("main").info1()
    except Exception as e:
        exit(str(e))
